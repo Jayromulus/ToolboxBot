@@ -23,10 +23,6 @@ This is a simple bot designed to just perform whatever menial tasks I find very 
         <td>
             <table>
                 <tr>
-                    <th>Name</th>
-                    <th>Type</th>
-                </tr>
-                <tr>
                     <td>link</td>
                     <td>String</td>
                 <tr>
