@@ -12,6 +12,19 @@ This is a simple bot designed to just perform whatever menial tasks I find very 
 
 ## Usage
 
-| Command | Arguments | Explanation |
-| ------- | --------- | ----------- |
-| `embed` | `link: <String>` | Takes in a url from twitter/x and returns a vxtwitter link containing the provided tweet |
+<table>
+    <tr>
+        <th>Command</th>
+        <th>Arguments</th>
+        <th>Explanation</th>
+    </tr>
+    <tr>
+        <td>`embed`</td>
+        <td>
+        | Name | Type |
+        | ---- | ---- |
+        | link | String |
+        </td>
+        <td>Takes in a url from twitter/x and returns a vxtwitter link for the supplied post</td>
+    </tr>
+</table>
