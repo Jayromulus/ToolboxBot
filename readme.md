@@ -14,4 +14,4 @@ This is a simple bot designed to just perform whatever menial tasks I find very 
 
 | Command | Arguments | Explanation |
 | ------- | --------- | ----------- |
-| `embed` | `link: <String>` | Takes in a url from twitter or x and returns a vxtwitter link containing the provided tweet |
+| `embed` | `link: <String>` | Takes in a url from twitter/x and returns a vxtwitter link containing the provided tweet |
