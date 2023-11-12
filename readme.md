@@ -21,9 +21,11 @@ This is a simple bot designed to just perform whatever menial tasks I find very 
     <tr>
         <td>`embed`</td>
         <td>
+
         | Name | Type |
         | ---- | ---- |
         | link | String |
+        
         </td>
         <td>Takes in a url from twitter/x and returns a vxtwitter link for the supplied post</td>
     </tr>
