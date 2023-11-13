@@ -1,6 +1,6 @@
 # ToolboxBot
 
-This is a simple bot designed to just perform whatever menial tasks I find very slightly annoying to do when interacting with my daily life.
+a simple bot designed to just perform whatever menial tasks I find very slightly annoying to do when interacting with my daily life.
 
 ## .env
 
@@ -19,7 +19,7 @@ This is a simple bot designed to just perform whatever menial tasks I find very 
         <th>Explanation</th>
     </tr>
     <tr>
-        <td>`embed`</td>
+        <td><code>/embed</code></td>
         <td>
             <table>
                 <tr>
