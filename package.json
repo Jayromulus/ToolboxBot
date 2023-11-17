@@ -1,6 +1,6 @@
 {
   "name": "embed-bot",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "discord.js bot for embedding tweets",
   "main": "index.js",
   "scripts": {

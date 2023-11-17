@@ -3,10 +3,10 @@ const { REST, Routes } = require('discord.js');
 const fs = require('node:fs');
 
 const commands = [];
-const commandFiles = fs.readdirSync('./commands');
+const commandFiles = fs.readdirSync('../commands');
 
 for (const file of commandFiles) {
-	const command = require(`./commands/${file}`);
+	const command = require(`../commands/${file}`);
 	commands.push(command.data.toJSON());
 };
 

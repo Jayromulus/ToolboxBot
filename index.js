@@ -13,6 +13,7 @@ const client = new Client({ intents: [GatewayIntentBits.GuildMessages] });
 // only runs once when the clientready event is fired, and logs a message in the console signaling the app is ready
 client.once(Events.ClientReady, current => {
 	console.log(`Ready! Logged in as ${current.user.tag}`);
+	client.user.setActivity('/embed to share a tweet');
 });
 
 // create a new collection of commands the bot will know
